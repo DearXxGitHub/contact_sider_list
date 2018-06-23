@@ -3,10 +3,11 @@
 仿微信联系人列表组件
 [github项目地址](https://github.com/weihb/flutter-demo)   
 
-![loading](https://github.com/weihb/contact_sider_list/raw/master/461529648698.jpg)
 ![loading](https://github.com/weihb/contact_sider_list/raw/master/ezgif.gif)    
 
 ---
+
+网络不行，一直传不上去，下面的安装方式暂时用不了，可以下载源文件使用
 # Install 
 ````
     dependencies:
